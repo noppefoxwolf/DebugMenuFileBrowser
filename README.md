@@ -22,7 +22,11 @@ pod "DebugMenuFileBrowser"
 
 ## Author
 
-Tomoya Hirano, tomoya.hirano@dena.com
+Tomoya Hirano, cromteria@gmail.com
+
+## FileBrowser
+
+[marmelroy/FileBrowser](https://github.com/marmelroy/FileBrowser)
 
 ## License
 
