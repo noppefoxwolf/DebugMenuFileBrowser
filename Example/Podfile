@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DebugMenuFileBrowser_Example' do
+  pod 'DebugMenuFileBrowser', :path => '../'
+
+  target 'DebugMenuFileBrowser_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
