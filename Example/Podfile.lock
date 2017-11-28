@@ -2,7 +2,7 @@ PODS:
   - BugImageCreator (0.4.0)
   - DebugHead (0.2.0):
     - BugImageCreator (~> 0.4.0)
-  - DebugMenuFileBrowser (0.1.0):
+  - DebugMenuFileBrowser (0.2.0):
     - DebugHead
     - FileBrowser
   - FileBrowser (0.2.0)
@@ -12,14 +12,14 @@ DEPENDENCIES:
 
 EXTERNAL SOURCES:
   DebugMenuFileBrowser:
-    :path: "../"
+    :path: ../
 
 SPEC CHECKSUMS:
   BugImageCreator: 6d20d5c1989de88cd43367e0caa5f1f965acd6a5
   DebugHead: 40b08471e6788ec9201531608ee3665971b7e2f9
-  DebugMenuFileBrowser: fa56262352924246e9b26e7d2381b6395bb11c25
+  DebugMenuFileBrowser: 06c2954770142954799f70bae64343e6a5fb13f2
   FileBrowser: af8abc035daca66a6066351ae162c4af4c6b24dd
 
 PODFILE CHECKSUM: 21f81b9b7ed9c28fbbe4f512190f4ad3ae0eee72
 
-COCOAPODS: 1.2.0.beta.3
+COCOAPODS: 1.3.1
