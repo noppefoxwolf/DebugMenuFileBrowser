@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = 'DebugMenuFileBrowser'
-s.version          = '0.2.0'
+s.version          = '0.3.0'
 s.summary          = 'FileBrowser for DebugHead.'
 s.description      = <<-DESC
 FileBrowser for DebugHead menu.
