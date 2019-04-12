@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = 'DebugMenuFileBrowser'
-s.version          = '0.3.0'
+s.version          = '0.4.0'
 s.summary          = 'FileBrowser for DebugHead.'
 s.description      = <<-DESC
 FileBrowser for DebugHead menu.
@@ -12,7 +12,7 @@ s.author           = { 'Tomoya Hirano' => 'cromteria@gmail.com' }
 s.source           = { :git => 'https://github.com/noppefoxwolf/DebugMenuFileBrowser.git', :tag => s.version.to_s }
 s.social_media_url = 'https://twitter.com/noppefoxwolf'
 
-s.ios.deployment_target = '8.0'
+s.ios.deployment_target = '11.0'
 
 s.source_files = 'DebugMenuFileBrowser/Classes/**/*'
 s.dependency 'DebugHead'
